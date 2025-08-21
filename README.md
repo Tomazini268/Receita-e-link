@@ -1,4 +1,5 @@
 Receita
+
 🟩 Linguagem e Estrutura
 
 O documento está escrito em HTML e começa com a tag <html lang="pt-br">, indicando que o idioma da página é português do Brasil.
